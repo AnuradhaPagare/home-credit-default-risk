@@ -1,0 +1,5 @@
+tutorial.ipynb is the self-contained, reproducible pipeline (run it from the competition/ folder).
+These scripts are the experiment code behind the recorded model-comparison table:
+features.py (feature engineering incl. the dropped group-stats variant), models.py (LR/RF/ET/LGB/XGB/CatBoost CV),
+tune_lgb.py (Optuna), final_lgb.py (fixed-round refit), blend.py (out-of-fold blend test).
+To run them, copy them into competition/ (next to input/ and output/).

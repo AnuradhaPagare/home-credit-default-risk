@@ -1,0 +1,1 @@
+{"params": {"num_leaves": 17, "min_child_samples": 480, "subsample": 0.9977156222028715, "colsample_bytree": 0.30564424161592635, "reg_lambda": 30.022294228257973, "reg_alpha": 4.136104732792231, "min_split_gain": 0.49310512704250176, "max_bin": 255, "cat_smooth": 23.26486564717449}, "iters": 279.6, "auc": 0.7608769121636523}
